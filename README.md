@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build crea
 - 🚀 **Cloud technologies** (AWS, Azure)
 
 ## 📈 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Kelvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KelvinAsante&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ## 🤝 Let's Connect:
 - 📧 Email: [your-email@example.com](mailto:your-email@example.com)
