@@ -1,4 +1,4 @@
-## Hi there 👋
+## Kelvin Asante👋
 
 <!--
 **KelvinAsante/kelvinAsante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
